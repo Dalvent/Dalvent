@@ -98,6 +98,24 @@
  </td>
  
 </tr>
+
+ - **Windows Development**
+
+<table>
+<tbody>
+
+<tr>
+ 
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/wpf.png?raw=true"> 
+ </td>
+
+ <td align="center" width="25%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/glad.png?raw=true"> 
+ </td>
+ 
+</tr>
+ 
  
 </tbody>
 </table>

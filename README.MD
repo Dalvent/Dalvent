@@ -13,11 +13,11 @@
 
 ### My skills 💣
 - **Main coding Languages**
-<table>
+<table bgcolor="#FFFFFF">
 <tbody>
  
 <tr>
- <td align="center" width="50%" background="white">
+ <td align="center" width="50%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/csharp.png?raw=true"> 
  </td>
 

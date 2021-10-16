@@ -17,11 +17,11 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="LOgs"> 
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height=60px src="https://github.com/Dalvent/Dalvent/edit/main/Logos/cpp.png"> 
 </td>
 </tr>
 </tbody>
@@ -32,7 +32,7 @@
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height=60px src="https://github.com/Dalvent/Dalvent/edit/main/Logos/csharp.png"> 
 </td>
 
 <td align="center" width="33%">

@@ -13,7 +13,7 @@
 
 ### My skills 💣
 - **Main coding Languages**
-<table bgcolor="#FFFFFF">
+<table style="background-color:#FFFFFF;">
 <tbody>
  
 <tr>

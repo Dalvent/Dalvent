@@ -55,20 +55,48 @@
 </tbody>
 </table>
 
-- **Web Development**
-- 
+- **Game Development**
+
+<table>
+<tbody>
+ 
 <tr>
  <td align="center" width="50%">
-  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/html5.png?raw=true"> 
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/ue4.png?raw=true"> 
  </td>
 
  <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/unity.png?raw=true"> 
+ </td>
+ 
+</tr>
+</tbody>
+</table>
+
+
+- **Web Development**
+
+<table>
+<tbody>
+
+<tr>
+ 
+ <td align="center" width="25%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/aspnet.png?raw=true"> 
+ </td>
+
+ <td align="center" width="25%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/html5.png?raw=true"> 
+ </td>
+ 
+ <td align="center" width="25%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/css3.png?raw=true"> 
  </td>
  
-  <td align="center" width="50%">
-  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/apsnet.png?raw=true"> 
+ <td align="center" width="25%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/js.png?raw=true"> 
  </td>
+ 
 </tr>
  
 </tbody>

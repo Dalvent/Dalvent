@@ -12,7 +12,7 @@
 
 
 ### My skills :woman_technologist:
-- **Competitive Coding**
+- **Main coding Languages**
 <table>
 <tbody>
  <tr>

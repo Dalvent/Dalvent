@@ -30,7 +30,9 @@
 </table>
 
 - **Mobile Development**
-- 
+<table>
+<tbody>
+ 
 <tr>
  <td align="center" width="50%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/android.png?raw=true"> 
@@ -44,6 +46,9 @@
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/kotlin.png?raw=true"> 
  </td>
 </tr>
+ 
+</tbody>
+</table>
 
 - **Web Development**
 - 

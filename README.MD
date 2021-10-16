@@ -11,7 +11,7 @@
 ⚡ Fun fact: I dream of stories from jokes
 
 
-### My skills :woman_technologist:
+### My skills :man_technologist:
 - **Main coding Languages**
 <table>
 <tbody>

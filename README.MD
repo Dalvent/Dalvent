@@ -17,8 +17,8 @@
 <tbody>
  
 <tr>
- <td style="background-color:#424242;" align="center" width="50%">
-  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/csharp.png?raw=true"> 
+ <td align="center" width="50%">
+  <img style="background-color:#424242;" height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/csharp.png?raw=true"> 
  </td>
 
  <td align="center" width="50%">

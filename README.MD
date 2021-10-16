@@ -21,7 +21,7 @@
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://github.com/Dalvent/Dalvent/edit/main/Logos/cpp.png"> 
+<img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/cpp.png?raw=true"> 
 </td>
 </tr>
 </tbody>

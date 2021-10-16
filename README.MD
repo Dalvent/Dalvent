@@ -109,16 +109,20 @@
 
 <tr>
  
- <td align="center" width="33%">
+ <td align="center" width="25%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/wpf.png?raw=true"> 
  </td>
  
- <td align="center" width="33%">
+ <td align="center" width="25%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/ef.png?raw=true"> 
  </td>
  
- <td align="center" width="33%">
+ <td align="center" width="25%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/dotnet.png?raw=true"> 
+ </td>
+ 
+  <td align="center" width="25%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/sql.png?raw=true"> 
  </td>
  
 </tr>

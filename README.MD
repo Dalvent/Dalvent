@@ -41,6 +41,15 @@
  <td align="center" width="50%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/ios.png?raw=true"> 
  </td>
+ 
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/kotlin.png?raw=true"> 
+ </td>
+ 
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/xamarin.png?raw=true"> 
+ </td>
+ 
 </tr>
  
 </tbody>

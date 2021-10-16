@@ -82,19 +82,19 @@
 
 <tr>
  
- <td align="center" width="25%">
+ <td align="center" width="40%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/aspnet.png?raw=true"> 
  </td>
 
- <td align="center" width="25%">
+ <td align="center" width="20%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/html5.png?raw=true"> 
  </td>
  
- <td align="center" width="25%">
+ <td align="center" width="20%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/css3.png?raw=true"> 
  </td>
  
- <td align="center" width="25%">
+ <td align="center" width="20%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/js.png?raw=true"> 
  </td>
  

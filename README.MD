@@ -15,37 +15,51 @@
 - **Main coding Languages**
 <table>
 <tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/csharp.png?raw=true"> 
-</td>
+ 
+<tr>
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/csharp.png?raw=true"> 
+ </td>
 
-<td align="center" width="50%">
-<img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/cpp.png?raw=true"> 
-</td>
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/cpp.png?raw=true"> 
+ </td>
 </tr>
+ 
 </tbody>
 </table>
 
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://github.com/Dalvent/Dalvent/edit/main/Logos/csharp.png"> 
-</td>
+- **Mobile Development**
+- 
+<tr>
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/android.png?raw=true"> 
+ </td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/ios.png?raw=true"> 
+ </td>
+ 
+  <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/kotlin.png?raw=true"> 
+ </td>
 </tr>
 
-<tbody>
-<table>
+- **Web Development**
+- 
+<tr>
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/html5.png?raw=true"> 
+ </td>
+
+ <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/css3.png?raw=true"> 
+ </td>
+ 
+  <td align="center" width="50%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/apsnet.png?raw=true"> 
+ </td>
+</tr>
+ 
+</tbody>
+</table>

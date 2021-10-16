@@ -101,15 +101,23 @@
  </tbody>
 </table>
 
- - **Windows Development**
+ - **Other**
 
 <table>
 <tbody>
 
 <tr>
  
- <td align="center" width="100%">
+ <td align="center" width="33%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/wpf.png?raw=true"> 
+ </td>
+ 
+ <td align="center" width="33%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/ef.png?raw=true"> 
+ </td>
+ 
+ <td align="center" width="33%">
+  <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/dotnet.png?raw=true"> 
  </td>
  
 </tr>

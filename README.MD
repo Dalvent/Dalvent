@@ -98,6 +98,8 @@
  </td>
  
 </tr>
+ </tbody>
+</table>
 
  - **Windows Development**
 
@@ -106,7 +108,7 @@
 
 <tr>
  
- <td align="center" width="50%">
+ <td align="center" width="100%">
   <img height=60px src="https://github.com/Dalvent/Dalvent/blob/main/Logos/wpf.png?raw=true"> 
  </td>
  

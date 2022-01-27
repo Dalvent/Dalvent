@@ -3,7 +3,7 @@
  
 🔭 I’m currently working on Mobile Xamarin Development
 
-🌱 I’m currently learning Unity Game Development and 3D Modeling in Blender
+🌱 I’m currently learning Unity Game Development
 
 👯 I’m looking to collaborate on Fun Game Projects
 
